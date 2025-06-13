@@ -211,10 +211,15 @@ body {
 .main_sung p {
     position: absolute;
     color: #000;
-    font-size: 19px;
+    font-size: 18px;
     top: 50%;
     left: 66%;
     transform: translate(-50%, -50%);
+}
+
+.main_sung .text {
+    display: block;
+    margin-bottom: 32px;
 }
 
 .main_banner {
